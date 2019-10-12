@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://holla123:holla123@devconnector-vlyx7.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "ea0a66e488e22617ad65",
+  "githubSecret": "2d038bc6781b0a2b7b748a34e2c9cd462a64fc3c"
+}
